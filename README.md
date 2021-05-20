@@ -1,1 +1,1 @@
-## This repository shows my solutions to the book——“A Collection of Data Science Take-Home Challenges.” (Python)
+This repository shows how to use python libraries, including numpy, pandas, matplotlib, seaborn etc. to do data analysis. This whole procedure including data cleaning and formatting, exploratory data analysis, making conclusions etc.
