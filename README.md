@@ -1,1 +1,1 @@
-This repository shows how to use python libraries, including numpy, pandas, matplotlib, seaborn etc. to do data analysis. This whole procedure including data cleaning and formatting, exploratory data analysis, making conclusions etc.
+This repository shows how to use python libraries, including numpy, pandas, matplotlib, seaborn etc. to do data analysis. The whole procedures included data cleaning, exploratory data analysis and giving actionable insights etc..
